@@ -1,0 +1,7 @@
+identifier: helloword
+name: HelloWord
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb

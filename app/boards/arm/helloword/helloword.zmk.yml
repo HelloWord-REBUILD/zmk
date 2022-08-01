@@ -1,0 +1,12 @@
+file_format: "1"
+id: helloword
+name: HelloWord
+type: board
+arch: arm
+features:
+  - keys
+  - underglow
+  - pointer
+outputs:
+  - usb
+url: https://github.com/peng-zhihui/HelloWord-Keyboard
