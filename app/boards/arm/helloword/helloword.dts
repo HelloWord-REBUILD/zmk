@@ -65,7 +65,7 @@
 	kscan: kscan-gpio-74hc165@0 {
 		compatible = "zmk,kscan-gpio-74hc165";
 		reg = <0>;
-		spi-max-frequency = <4000000>;
+		spi-max-frequency = <1000000>;
 		label = "KSCAN";
 		chain-length = <11>;
 		scan-masks = [FF FF FF FF FF FF FF FF FF FF FF];
